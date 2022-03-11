@@ -1,0 +1,7 @@
+Logs/
+Temp/
+Library/
+UserSettings/
+obj/Debug/
+.vs/
+Assembly-CSharp.csproj
